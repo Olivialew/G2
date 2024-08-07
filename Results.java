@@ -40,4 +40,6 @@ public class Student {
 }
 
 void myTest();
+
+void calculateCgpa();
 }
